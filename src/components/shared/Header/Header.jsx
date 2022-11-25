@@ -31,7 +31,7 @@ export const Header = () => {
         <>
             {/* <!-- BEGIN HEADER --> */}
             <header className="header">
-                <div className={`header-content ${fixedNav ? "fixed" : ""}`}>
+                <div className={`header-content ${fixedNav ? "fixed" : ""}`} >
                     <div className="header-logo">
                         <Link href="/">
                             <a>

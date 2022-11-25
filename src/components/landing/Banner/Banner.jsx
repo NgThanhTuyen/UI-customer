@@ -10,11 +10,11 @@ export const Banner = () => {
                         <span className="saint-text">Professional</span>
                         <h1 className="main-text">Beauty &amp; Fashion</h1>
                         <p>
-                            Thiết kế đặc biệt định hình phong cách cho riêng bạn
+                            Thiết kế đặc biệt cho Thanh Tuyền
                         </p>
 
                         <Link href="/shop">
-                            <a className="btn">Mua ngay</a>
+                            <a className="btn">Mua ngay đi, chờ làm chi</a>
                         </Link>
                     </div>
                 </div>
