@@ -8,22 +8,21 @@ export const Discount = () => {
                 <div className="wrapper">
                     <div>
                         <img
-                            // src="https://cmsv2.yame.vn/uploads/603759e0-c46a-4d8c-bdab-37f9e42b6c75/Thum_blog_sale_08.08_(02).jpg?quality=80&w=700&h=0"
-                            src="/assets/img/Mieu.png"
+                            
+                            src="https://previews.123rf.com/images/pashabo/pashabo1511/pashabo151100028/48001822-black-friday-vente-affiche-de-la-publicit%C3%A9-avec-chute-de-neige-fond-soldes-de-no%C3%ABl.jpg"
                             style={{ width: "100%", height: "100%" }}
                         />
                     </div>
                     <div className="discount-info">
                         <span className="saint-text">Discount</span>
-                        <span className="main-text">
-                            Get Your <span>50%</span> Off
+                        <span className="main-text">Get Your <span>50%</span> Off
                         </span >
-                        <p style={{color:'red',fontFamily:'Tahoma',fontSize:'30px'}}>
-                            Đừng bỏ lỡ các chương trình khuyến mãi Hot tại Miều 
+                        <p style={{color:'red',fontFamily:'Times New Roman',fontSize:'30px'}}>
+                            Đừng bỏ lỡ các chương trình khuyến mãi Hot tại Miều bạn nhé !!!
                         </p>
 
                         <Link href="/shop">
-                            <a className="btn" style={{color:'black',backgroundColor: 'blue'}}>Mua Ngay</a>
+                            <a className="btn" style={{color:'with',backgroundColor: 'black'}}>Mua Ngay</a>
                         </Link>
                     </div>
                 </div>
